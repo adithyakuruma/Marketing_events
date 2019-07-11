@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="event_type" table="x_376532_marketing_events_table" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>event_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LUG</label>
+            <language>en</language>
+            <name>x_376532_marketing_events_table</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-11 09:29:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f19f5182dbee3300b82d2eda4896192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-11 09:29:46</sys_updated_on>
+            <value>LUG</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>event_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>major</label>
+            <language>en</language>
+            <name>x_376532_marketing_events_table</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-11 09:29:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b59f5182dbee3300b82d2eda4896192e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-11 09:29:46</sys_updated_on>
+            <value>major</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>event_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>seminar</label>
+            <language>en</language>
+            <name>x_376532_marketing_events_table</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-11 09:29:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>759f5182dbee3300b82d2eda4896192f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-11 09:29:46</sys_updated_on>
+            <value>seminar</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>event_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>booth</label>
+            <language>en</language>
+            <name>x_376532_marketing_events_table</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-11 09:29:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>359f5182dbee3300b82d2eda48961930</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-11 09:29:46</sys_updated_on>
+            <value>booth</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>event_type</element>
+            <name>x_376532_marketing_events_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-11 09:29:46</sys_created_on>
+            <sys_id>7d9f5182dbee3300b82d2eda4896192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>event_type</sys_name>
+            <sys_package display_value="Marketing Events" source="x_376532_marketing">2bc4594adbae3300b82d2eda48961954</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Marketing Events">2bc4594adbae3300b82d2eda48961954</sys_scope>
+            <sys_update_name>sys_choice_x_376532_marketing_events_table_event_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-11 09:29:46</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
